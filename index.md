@@ -9,6 +9,6 @@ I am currently a a Ph.D. candidate student in [Molecular Genetics and Genomics](
 
 1. **Molecular Mechanisms of Gene Regulation**: I am intrigued by the processes that regulate gene expression and interaction at the molecular level. 
 
-2. **Underexplored Regions in Genes**: Another area of interest lies in the exploration of genomic regions that have historically received less attention, particularly those that are not expressed. I am curious about their potential functions, if any, and the implications of their inactivity or lesser-known roles in the genome.
+2. **Underexplored Regions in the Genome**: Another area of interest lies in the exploration of genomic regions that have historically received less attention, particularly those that are not expressed. I am curious about their potential functions, if any, and the implications of their inactivity or lesser-known roles in the genome.
 
 3. **Genome-Editing Technologies**: I am also deeply interested in the advancements and applications of genome-editing tools, such as CRISPR, base editing, prime editing, and more. The development and refinement of these technologies offering unprecedented opportunities for research and therapeutic intervention.
