@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/shujuan.pdf", title: "CV"}
+  - {file: "ShuanZhao_CV_Mar6_2024.pdf", title: "CV"}
   - {file: "research", title: "Research"}
   - {file: "publications", title: "Publications"}
-  - {file: "/blog.md", title: "Blog"}
-  - {file: "/contact.md", title: "Contact"}
+  - {file: "blog.md", title: "Blog"}
+  - {file: "contact.md", title: "Contact"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:shujuanzzzz@gmail.com"}
