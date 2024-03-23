@@ -6,14 +6,11 @@ categories: media
 ---
 
 ## Address
-Couch Biomedical Research Building
-
-4515 McKinley Ave
-
+Couch Biomedical Research Building  
+4515 McKinley Ave  
 Saint Louis, MO, 63108
 
 ## Email
-shujuanzhao@wustl.edu
-
+shujuanzhao@wustl.edu  
 
 ![map location](/images/location.png "map location")
