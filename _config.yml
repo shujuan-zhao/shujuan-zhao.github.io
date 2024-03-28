@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "shujuan.pdf", title: "CV"}
   #- {file: "research.md", title: "Research"}
+  - {file: "shujuan.pdf", title: "CV"}
   - {title: "Publications", url: "https://scholar.google.com/citations?user=nLsNVrsAAAAJ&hl=zh-CN"}
   - {file: "blog.md", title: "Blog"}
   - {file: "contact.md", title: "Contact"}
