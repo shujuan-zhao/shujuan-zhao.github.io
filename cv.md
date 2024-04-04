@@ -4,7 +4,7 @@
 
 ## Education
 
-- **2019 - 2024**
+- **2020 - 2024**
   - **Ph.D. in Molecular Genetics and Genomics**
   - Washington University in St. Louis, Saint Louis, MO, US
   - Thesis mentor: Sheng Chih (Peter) Jin, Ph.D. & Kristopher Kahle, M.D., Ph.D.
@@ -31,14 +31,14 @@
 ## Publications
 
 - **First-author research articles:**
-  - Zhao S., Mekbib K.Y., van der Ent M.A., Allington G., et al., King P.D.& Jin S.C.& Kahle K.T.&. Mutation of key signaling regulators of cerebrovascular development in vein of Galen malformations. Nature Communications. 2023 Nov 17;14(1):7452. PMID: 37978175.
-  - DeSpenza T.# Singh A.K.# Allington G.# Zhao S.# (co-first author) Lee J.# Kiziltug E.# et al., Kahle K.T.&. Mutations in autism gene KATNAL2 cause hydrocephalus and disrupt neuronal connectivity by impairing ciliary microtubule dynamics. 2024. PNAS (In Press).
-  - Duy P.Q.# Jux B.# Zhao S.# (co-first author) Mekbib K.Y., Dennis E., Dong W., Nelson-Williams C., et al., Kahle K.T.&. Recurrent de novo variants in the RNA-binding NHL domains of TRIM71 cause a novel form of human syndromic congenital hydrocephalus. 2024. Brain (Under revision).
-  - Cai Y.# Zhu W.# Zhao S.# (co-first author) Dong C., Xu Z., Zhao Y.&. Difluorocarbene-Mediated Cascade Cyclization: The Multifunctional Role of Ruppert–Prakash Reagent. Organic Letters. 2021 May 7;23(9):3546-3551. PMID: 33913711.
+  - **Zhao S.**, Mekbib K.Y., van der Ent M.A., Allington G., et al., King P.D.& Jin S.C.& Kahle K.T.&. Mutation of key signaling regulators of cerebrovascular development in vein of Galen malformations. #Nature Communications.# 2023 Nov 17;14(1):7452. PMID: 37978175.
+  - DeSpenza T.# Singh A.K.# Allington G.**Zhao S.# (co-first author)** Lee J.# Kiziltug E.# et al., Kahle K.T.&. Mutations in autism gene KATNAL2 cause hydrocephalus and disrupt neuronal connectivity by impairing ciliary microtubule dynamics. 2024. PNAS (In Press).
+  - Duy P.Q.# Jux B.# **Zhao S.# (co-first author)** Mekbib K.Y., Dennis E., Dong W., Nelson-Williams C., et al., Kahle K.T.&. Recurrent de novo variants in the RNA-binding NHL domains of TRIM71 cause a novel form of human syndromic congenital hydrocephalus. 2024. Brain (Under revision).
+  - Cai Y.# Zhu W.# **Zhao S.# (co-first author)** Dong C., Xu Z., Zhao Y.&. Difluorocarbene-Mediated Cascade Cyclization: The Multifunctional Role of Ruppert–Prakash Reagent. Organic Letters. 2021 May 7;23(9):3546-3551. PMID: 33913711.
 
 - **First-author review articles:**
-  - Wang Y-C.# Wu Y.# Choi J.# Allington G.# Zhao S.# (co-first author) Khanfar M.# Yang K.# Fu P-Y. Wrubel M., Yu X., Mekbib K.Y., Ocken J., Smith H., Shohfi J., Kahle K.T., Lu Q.& Jin S.C.&. Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy. Journal of Personalized Medicine. 2022 Jan 27;12(2):175. PMID: 35207663.
-  - Diab N.S.# Barish S.# Dong W.# Zhao S.# (co-first author) Allington G., Yu X., Kahle K.T., Brueckner M., Jin S.C.&. Molecular genetics and complex inheritance of congenital heart disease. Genes. 2021 Jun 30;12(7):1020. PMID: 34209044.
+  - Wang Y-C.# Wu Y.# Choi J.# Allington G.# **Zhao S.# (co-first author)** Khanfar M.# Yang K.# Fu P-Y. Wrubel M., Yu X., Mekbib K.Y., Ocken J., Smith H., Shohfi J., Kahle K.T., Lu Q.& Jin S.C.&. Computational genomics in the era of precision medicine: applications to variant analysis and gene therapy. Journal of Personalized Medicine. 2022 Jan 27;12(2):175. PMID: 35207663.
+  - Diab N.S.# Barish S.# Dong W.# **Zhao S.# (co-first author)** Allington G., Yu X., Kahle K.T., Brueckner M., Jin S.C.&. Molecular genetics and complex inheritance of congenital heart disease. Genes. 2021 Jun 30;12(7):1020. PMID: 34209044.
 
 - [Full list of publications](https://scholar.google.com/citations?user=nLsNVrsAAAAJ)
 
