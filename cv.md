@@ -1,3 +1,8 @@
+---
+layout: page
+title: ""
+---
+
 # Shujuan Zhao
 
 4355 Maryland Ave • Saint Louis, MO 63108 • 314-814-9913 • shujuanzhao@wustl.edu
@@ -77,13 +82,13 @@
 ## Skills
 
 ### Computational Biology
-- 5 years of experience in human genomics, focusing on the genetic mechanisms of diseases using statistical methods and Next-Generation Sequencing (NGS) technologies (Whole-Exome Sequencing, Whole-Genome Sequencing, Long-Read Sequencing, Targeted Deep Sequencing, Single-Cell RNA-Seq).
+- 4+ years of experience in human genomics, focusing on the genetic mechanisms of diseases using statistical methods and Next-Generation Sequencing (NGS) technologies (Whole-Exome Sequencing, Whole-Genome Sequencing, Long-Read Sequencing, Targeted Deep Sequencing, Single-Cell RNA-Seq).
 - Proficiency in functional studies, including biochemical techniques (Immunoprecipitation, In-Silico Protein Modeling) and zebrafish disease modeling (CRISPR-Cas9 Knock-In and Knock-Out).
 - Developed bioinformatics pipelines for genomic data processing and statistical analysis.
 - Skilled in programming languages, including Python, R, Shell, and tools like Jupyter.
 
 ### Organic Chemistry
-- 3 years of experience in Organic Chemistry Synthesis.
+- 3+ years of experience in Organic Chemistry Synthesis.
 - Expertise in techniques such as Column Chromatography, High-Performance Liquid Chromatography (HPLC), handling air- and moisture-sensitive compounds (Glove Box, Schlenk Techniques).
 - Proficient in chemical structure interpretation methods (NMR, 2D-NMR, GC-MS, UV, IR Spectrum).
 - Familiar with software including ChemDraw and MestReNova.
