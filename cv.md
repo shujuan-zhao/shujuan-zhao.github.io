@@ -1,9 +1,7 @@
 ---
 layout: page
-title: ""
+title: "Shujuan Zhao"
 ---
-
-# Shujuan Zhao
 
 4355 Maryland Ave • Saint Louis, MO 63108 • 314-814-9913 • shujuanzhao@wustl.edu
 
