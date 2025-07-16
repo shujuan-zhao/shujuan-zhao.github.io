@@ -1,0 +1,20 @@
+/* TEAM */
+  
+  Researcher & Developer: Shujuan Zhao
+  Contact: shujuanzzzz@gmail.com
+  Twitter: @shujuan_zhao
+  From: St. Louis, MO, USA
+
+/* THANKS */
+
+  Jekyll Team: For the amazing static site generator
+  GitHub: For free hosting via GitHub Pages
+  Contrast Theme Authors: For the beautiful theme
+  Font Awesome: For the icon library
+  
+/* SITE */
+
+  Last update: 2025/01/16
+  Standards: HTML5, CSS3, Markdown
+  Components: Jekyll, Sass, Liquid
+  Software: VS Code, Git, Ruby

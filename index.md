@@ -2,15 +2,39 @@
 layout: page
 title: ""
 ---
-I am currently a a Ph.D. candidate student in [Molecular Genetics and Genomics](https://dbbs.wustl.edu/programs/molecular-genetics-genomics/) at Washington University in St. Louis School of Medicine. 
 
-I am co-mentored my [Dr. Peter Jin](https://scjin.github.io/index.html) and [Dr. Kristopher Kahle](https://www.kahlelab.com) to study the genetic etiology and molecular mechanisms of rare human mendelian diseases including Vein of Galen malfromations, Moyamoya disease, Hydrocephalus, Chiari malformaiton and Metopic craniosynostosis. My [thesis work](https://www.nature.com/articles/s41467-023-43062-z) on Vein of Galen malformation recently been published in Nuature communications. [News](https://genetics.wustl.edu/collaborative-study-led-by-graduate-student-reveals-new-discoveries-on-rare-disease/) 
+# Welcome
 
+I am a Ph.D. candidate in [Molecular Genetics and Genomics](https://dbbs.wustl.edu/programs/molecular-genetics-genomics/) at Washington University in St. Louis School of Medicine, working at the intersection of human genetics, computational biology, and translational medicine.
 
-*My research interests are:*
+## Research Impact
 
-1. **Molecular Mechanisms of Gene Regulation**: I am intrigued by the processes that regulate gene expression and interaction at the molecular level. 
+My doctoral research focuses on decoding the genetic architecture of severe pediatric brain disorders. As the lead author of a landmark [*Nature Communications*](https://www.nature.com/articles/s41467-023-43062-z) study, I identified key mutations causing Vein of Galen Malformations through analysis of the world's largest patient cohort (310 families). This work was [featured by WUSTL](https://genetics.wustl.edu/collaborative-study-led-by-graduate-student-reveals-new-discoveries-on-rare-disease/) as a major breakthrough in understanding this devastating neonatal condition.
 
-2. **Underexplored Regions in the Genome**: Another area of interest lies in the exploration of genomic regions that have historically received less attention, particularly those that are not expressed. I am curious about their potential functions, if any, and the implications of their inactivity or lesser-known roles in the genome.
+## Current Focus
 
-3. **Genome-Editing Technologies**: I am also deeply interested in the advancements and applications of genome-editing tools, such as CRISPR, base editing, prime editing, and more. The development and refinement of these technologies offering unprecedented opportunities for research and therapeutic intervention.
+Under the co-mentorship of [Dr. Sheng Chih (Peter) Jin](https://scjin.github.io/) at WUSTL and [Dr. Kristopher Kahle](https://www.kahlelab.com) at Harvard/MGH, I investigate the genetic and molecular mechanisms of rare neurodevelopmental disorders including:
+
+- **Vein of Galen Malformations** - Severe brain arteriovenous malformations
+- **Congenital Hydrocephalus** - Abnormal cerebrospinal fluid accumulation  
+- **Moyamoya Disease** - Progressive cerebrovascular stenosis
+- **Chiari Malformation** - Structural defects of the cerebellum
+
+## Research Philosophy
+
+I believe in moving beyond correlation to causation. My approach integrates:
+- **Large-scale genomics** - Whole-exome sequencing of patient cohorts
+- **Single-cell resolution** - Mapping disease mechanisms to specific cell types
+- **Functional validation** - Proving causality in zebrafish and mouse models
+- **Translational focus** - Identifying druggable pathways for therapeutic development
+
+## Recent Highlights
+
+- **2023**: First-author paper in *Nature Communications* defining genetic architecture of VOGM
+- **2024**: Co-first author papers in *PNAS* and *Brain* on hydrocephalus genetics
+- **444+ citations**, h-index of 10 (Google Scholar)
+- **Selected speaker** at American Society of Human Genetics Annual Meeting
+
+---
+
+*"The genome holds the blueprint for life—our challenge is to decode how disruptions in this blueprint lead to disease, and translate these insights into therapies that can help children born with these devastating conditions."*
