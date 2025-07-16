@@ -8,7 +8,16 @@ This is a GitHub Pages personal website/blog for Dr. Shujuan Zhao, built using J
 
 ## Jekyll Development Commands
 
-### Local Development
+### Quick Preview
+```bash
+# Use the preview script (recommended)
+./preview.sh
+
+# Or use Docker (no Ruby needed)
+docker-compose up
+```
+
+### Manual Local Development
 ```bash
 # Install dependencies
 bundle install

@@ -1,0 +1,15 @@
+# Gitpod configuration for Jekyll preview
+tasks:
+  - init: |
+      bundle install
+    command: |
+      bundle exec jekyll serve --host 0.0.0.0
+
+ports:
+  - port: 4000
+    onOpen: open-preview
+    visibility: public
+
+vscode:
+  extensions:
+    - rebornix.ruby
