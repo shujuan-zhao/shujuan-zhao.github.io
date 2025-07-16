@@ -38,3 +38,5 @@ I believe in moving beyond correlation to causation. My approach integrates:
 ---
 
 *"The genome holds the blueprint for life—our challenge is to decode how disruptions in this blueprint lead to disease, and translate these insights into therapies that can help children born with these devastating conditions."*
+
+<!-- Last updated: January 2025 -->
