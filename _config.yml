@@ -1,6 +1,5 @@
 title: "Shujuan Zhao"
 author: "Shujuan Zhao"
-photo: /images/shujuan.jpg 
 description: "Washington University in St.Louis"
 url: "https://shujuan-zhao.github.io"
 baseurl: ""
@@ -16,7 +15,7 @@ photo: /images/shujuan.jpg  # Make sure this matches your image path
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
