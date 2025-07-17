@@ -1,7 +1,7 @@
 ---
 title: "Key Genetic Discovery in Vein of Galen Malformations"
 layout: post
-categories: research
+categories: [research]
 author: Shujuan Zhao
 ---
 

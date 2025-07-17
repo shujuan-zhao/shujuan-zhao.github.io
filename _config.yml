@@ -4,6 +4,7 @@ description: "Washington University in St.Louis"
 url: "https://shujuan-zhao.github.io"
 baseurl: ""
 permalink: /:title/
+paginate: 10
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"

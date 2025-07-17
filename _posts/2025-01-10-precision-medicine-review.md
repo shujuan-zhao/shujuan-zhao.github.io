@@ -1,7 +1,7 @@
 ---
 title: "Reflections on 'The Path to Precision Medicine' by Eric Topol"
 layout: post
-categories: reading
+categories: [reading]
 author: Shujuan Zhao
 ---
 
