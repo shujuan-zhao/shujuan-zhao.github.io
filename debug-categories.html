@@ -1,0 +1,42 @@
+---
+layout: default
+title: Debug Categories
+---
+
+<h2>All Posts:</h2>
+<ul>
+{% for post in site.posts %}
+  <li>{{ post.title }} - Categories: {{ post.categories | join: ", " }}</li>
+{% endfor %}
+</ul>
+
+<h2>Categories:</h2>
+{% for category in site.categories %}
+  <h3>{{ category[0] }}:</h3>
+  <ul>
+  {% for post in category[1] %}
+    <li>{{ post.title }}</li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+
+<h2>Research Category Posts:</h2>
+<ul>
+{% for post in site.categories.research %}
+  <li>{{ post.title }}</li>
+{% endfor %}
+</ul>
+
+<h2>Reading Category Posts:</h2>
+<ul>
+{% for post in site.categories.reading %}
+  <li>{{ post.title }}</li>
+{% endfor %}
+</ul>
+
+<h2>Other Category Posts:</h2>
+<ul>
+{% for post in site.categories.other %}
+  <li>{{ post.title }}</li>
+{% endfor %}
+</ul>
