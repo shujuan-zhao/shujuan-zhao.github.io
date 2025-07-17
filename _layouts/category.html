@@ -57,30 +57,26 @@ layout: default
 </div>
 
 <div class="post-list">
-  {% if page.category == 'all' %}
-    {% assign posts = site.posts %}
-  {% else %}
-    {% assign posts = site.categories[page.category] %}
-  {% endif %}
-  
-  <!-- Debug: Category = {{ page.category }}, Posts count = {{ posts.size }} -->
-  
-  {% for post in posts %}
-    <article class="post-preview">
-      <h2>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        {% if page.category == 'all' and post.categories %}
+  {% for post in site.posts %}
+    {% if page.category == 'all' %}
+      <article class="post-preview">
+        <h2>
+          <a href="{{ post.url }}">{{ post.title }}</a>
           <span class="post-category" style="display: inline-block; background-color: #f0f0f0; padding: 0.2em 0.6em; border-radius: 3px; font-size: 0.85em; margin-left: 0.5em;">{{ post.categories | first }}</span>
+        </h2>
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+        {% if site.show_excerpts %}
+          <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
         {% endif %}
-      </h2>
-      <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
-      {% if site.show_excerpts %}
-        <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-      {% endif %}
-    </article>
+      </article>
+    {% elsif post.categories contains page.category %}
+      <article class="post-preview">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+        {% if site.show_excerpts %}
+          <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+        {% endif %}
+      </article>
+    {% endif %}
   {% endfor %}
-  
-  {% if posts.size == 0 %}
-    <p style="text-align: center; color: #666; margin: 3em 0;">No posts in this category yet.</p>
-  {% endif %}
 </div>
