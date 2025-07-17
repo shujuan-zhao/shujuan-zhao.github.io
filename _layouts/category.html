@@ -63,6 +63,8 @@ layout: default
     {% assign posts = site.categories[page.category] %}
   {% endif %}
   
+  <!-- Debug: Category = {{ page.category }}, Posts count = {{ posts.size }} -->
+  
   {% for post in posts %}
     <article class="post-preview">
       <h2>
