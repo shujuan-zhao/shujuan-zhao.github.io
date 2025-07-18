@@ -12,6 +12,7 @@ date_format: "%B %d, %Y"
 # Layout
 name: Shujuan Zhao
 photo: /images/profilekkkk.jpg
+show_sidebar: true
 theme: jekyll-theme-contract
 #photo: /images/profilekkkk.jpg  # Make sure this matches your image path
 #show_excerpts: false        # show article excerpts on the home page
