@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "SHUJUAN ZHAO"
+title: "Shujuan Zhao"
 ---
 
 # Welcome
