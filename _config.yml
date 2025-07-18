@@ -14,9 +14,9 @@ name: Shujuan Zhao
 photo: /images/profile.jpg  # Make sure this matches your image path
 
 show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_frame: false           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
