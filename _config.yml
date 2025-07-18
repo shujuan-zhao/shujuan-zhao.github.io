@@ -9,11 +9,10 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# Theme
-
 # Layout
 name: Shujuan Zhao
 photo: /images/profilekkkk.jpg
+theme: jekyll-theme-contract
 #photo: /images/profilekkkk.jpg  # Make sure this matches your image path
 #show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
