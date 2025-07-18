@@ -10,7 +10,6 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Theme
-theme: minima
 
 # Layout
 name: Shujuan Zhao
