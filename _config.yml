@@ -10,7 +10,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Theme
-theme: jekyll-theme-contract
+theme: minima
 
 # Layout
 name: Shujuan Zhao
