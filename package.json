@@ -26,7 +26,8 @@
     "predeploy": "npm run build",
     "analyze": "ANALYZE=true npm run build",
     "analyze:server": "BUNDLE_ANALYZE=server npm run analyze",
-    "analyze:browser": "BUNDLE_ANALYZE=browser npm run analyze"
+    "analyze:browser": "BUNDLE_ANALYZE=browser npm run analyze",
+    "export": "next build && next export"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
