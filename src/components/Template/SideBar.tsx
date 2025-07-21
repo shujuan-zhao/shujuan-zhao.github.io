@@ -21,8 +21,7 @@ const SideBar: React.FC = () => {
             width={200}
             height={200}
             priority
-            style={{ objectFit: 'contain', borderRadius: 0 }}
-          />
+            style={{ objectFit: 'contain', borderRadius: 0 }} />
         </Link>
         <header>
           <h2>Shujuan Zhao</h2>
