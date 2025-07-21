@@ -15,14 +15,7 @@ const SideBar: React.FC = () => {
     <section id="sidebar">
       <section id="intro">
         <Link href="/" className="logo">
-          <Image 
-            src="/images/me.jpg" 
-            alt="Shujuan Zhao" 
-            width={200} 
-            height={200} 
-            priority 
-            style={{ objectFit: 'contain', borderRadius: 0 }
-          />
+          <Image src="/images/me.jpg" alt="Shujuan Zhao" width={200} height={200} priority style={{ objectFit: 'contain', borderRadius: 0 }} />
         </Link>
         <header>
           <h2>Shujuan Zhao</h2>
