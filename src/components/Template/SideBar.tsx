@@ -18,10 +18,9 @@ const SideBar: React.FC = () => {
           <Image
             src="/images/me.jpg"
             alt="Shujuan Zhao"
-            width={200}
-            height={200}
-            priority
-            style={{ objectFit: 'contain', borderRadius: 0 }} />
+            width={250}
+            height={250}
+            priority />
         </Link>
         <header>
           <h2>Shujuan Zhao</h2>
