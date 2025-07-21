@@ -15,12 +15,12 @@ const SideBar: React.FC = () => {
     <section id="sidebar">
       <section id="intro">
         <Link href="/" className="logo">
-          <Image src="/images/me.jpg" alt="Michael D'Angelo" width={200} height={200} priority />
+          <Image src="/images/me.jpg" alt="Shujuan Zhao" width={200} height={200} priority style={{ objectFit: 'contain', borderRadius: 0 }/>
         </Link>
         <header>
-          <h2>Michael D&apos;Angelo</h2>
+          <h2>Shujuan Zhao</h2>
           <p>
-            <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+            <a href="shujuanzhao@wustl.edu">shujuanzhao@wustl.edu</a>
           </p>
         </header>
       </section>
