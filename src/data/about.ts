@@ -1,8 +1,8 @@
 export const aboutMarkdown = `# Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
+I am Shujuan Zhao, a Ph.D. in Molecular Genetics & Genomics from Washington University in St. Louis. My research bridges human genetics, computational biology, and protein engineering, with a focus on understanding rare diseases and advancing genomic technologies.
 
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+My recent work includes large-scale sequencing studies of cerebrovascular and cardiac malformations, integrating variant discovery, pathway analysis, transcriptomics, and in vivo functional validation. 
 
 # Some History
 
@@ -26,8 +26,8 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I Like
 
-- Running
-- Skiing
+- Badmintion
+- Volleyball & Tennis & Borad games
 - Sailing and the sea
 - Space
 - Summer
