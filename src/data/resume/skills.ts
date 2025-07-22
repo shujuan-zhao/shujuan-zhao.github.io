@@ -11,24 +11,54 @@ export interface Category {
 
 const skills: Skill[] = [
   {
-    title: 'Javascript',
-    competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'Node.JS',
+    title: 'GATK',
     competency: 5,
-    category: ['Web Development', 'Javascript'],
+    category: ['Genomic Pipelines', 'Tools'],
   },
   {
-    title: 'React',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
+    title: 'ANNOVAR',
+    competency: 5,
+    category: ['Genomic Pipelines', 'Tools', 'Disease Mechanism'],
   },
   {
-    title: 'Next.JS',
+    title: 'bcftools',
+    competency: 5,
+    category: ['Genomic Pipelines', 'Tools'],
+  },
+  {
+    title: 'samtools',
+    competency: 5,
+    category: ['Genomic Pipelines', 'Tools'],
+  },
+  {
+    title: 'bedtools',
+    competency: 5,
+    category: ['Genomic Pipelines', 'Tools'],
+  },
+  {
+    title: 'VEP',
+    competency: 4,
+    category: ['Genomic Pipelines', 'Tools'],
+  },
+  {
+    title: 'IGV',
+    competency: 5,
+    category: ['Genomic Pipelines', 'Tools'],
+  },
+  {
+    title: 'Bash',
+    competency: 4,
+    category: ['Languages', 'Tools', 'Programming', 'Genomic Pipelines'],
+  },
+  {
+    title: 'Python',
+    competency: 4,
+    category: ['Languages', 'Tools', 'Programming', 'Python', 'Genomic Pipelines'],
+  },
+  {
+    title: 'SLUM',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Genomic Pipelines', 'Tools', 'Programming'],
   },
   {
     title: 'Bash',
@@ -36,109 +66,19 @@ const skills: Skill[] = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services',
-    competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
+    title: 'Git',
     competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'ElasticSearch',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL/Redshift',
-    competency: 4,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['ML Engineering'],
-  },
-  {
-    title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'D3',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Flask',
-    competency: 3,
-    category: ['Web Development', 'Python'],
-  },
-  {
-    title: 'FastAPI',
-    competency: 3,
-    category: ['Web Development', 'Python'],
-  },
-  {
-    title: 'Git/Mercurial',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Kubernetes',
-    competency: 2,
-    category: ['Tools', 'Data Engineering'],
-  },
-  {
-    title: 'Google Cloud Compute',
-    competency: 2,
-    category: ['Tools', 'Web Development'],
-  },
-  {
-    title: 'AWS',
-    competency: 3,
-    category: ['Tools', 'Web Development'],
+    category: ['Tools', 'Programing'],
   },
   {
     title: 'Docker',
     competency: 3,
-    category: ['Tools', 'Data Engineering'],
-  },
-  {
-    title: 'AWS Lambda',
-    competency: 3,
-    category: ['Tools', 'Web Development'],
+    category: ['Tools', 'Genomic Pipelines'],
   },
   {
     title: 'Numpy',
     competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python', 'ML Engineering'],
-  },
-  {
-    title: 'Numba',
-    competency: 2,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 3,
-    category: ['ML Engineering', 'Python'],
-  },
-  {
-    title: 'PyTorch',
-    competency: 3,
-    category: ['ML Engineering', 'Python'],
+    category: ['Data Science', 'Python', 'Genomic Pipelines'],
   },
   {
     title: 'Jupyter',
@@ -146,48 +86,8 @@ const skills: Skill[] = [
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Typescript',
-    competency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'Python',
-    competency: 5,
-    category: ['Languages', 'Python', 'ML Engineering'],
-  },
-  {
-    title: 'Ruby',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'Ruby on Rails',
-    competency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'C++',
-    competency: 1,
-    category: ['Languages'],
-  },
-  {
-    title: 'Julia',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
     title: 'R',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
@@ -196,44 +96,159 @@ const skills: Skill[] = [
     category: ['Data Science', 'Javascript'],
   },
   {
-    title: 'GraphQL',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
     title: 'Pandas',
+    competency: 3,
+    category: ['Data Science', 'Genomic Pipelines', 'Python'],
+  },
+  {
+    title: 'gnomAD',
+    competency: 4,
+    category: ['Genomic Pipelines', 'Databases', 'Disease Mechanism'],
+  },
+  {
+    title: 'ClinVar',
+    competency: 4,
+    category: ['Genomic Pipelines', 'Databases', 'Disease Mechanism'],
+  },
+  {
+    title: 'UCSC Genome Browser',
+    competency: 4,
+    category: ['Genomic Pipelines', 'Databases', 'Disease Mechanism'],
+  },
+  {
+    title: 'NCBI',
+    competency: 4,
+    category: ['Genomic Pipelines', 'Databases','Biochemistry', 'Disease Mechanism'],
+  },
+  {
+    title: 'UniProt',
+    competency: 4,
+    category: ['Genomic Pipelines', 'Databases','Biochemistry', 'Disease Mechanism'],
+  },
+  {
+    title: 'OMIM',
+    competency: 4,
+    category: ['Genomic Pipelines', 'Databases', 'Disease Mechanism'],
+  },
+  {
+    title: 'Whole Exome Sequencing',
     competency: 5,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
+    category: ['Genomic Pipelines', 'Tools', 'Disease Mechanism'],
   },
   {
-    title: 'Matplotlib',
-    competency: 3,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
+    title: 'Whole Genome Sequencing',
+    competency: 5,
+    category: ['Genomic Pipelines', 'Tools', 'Disease Mechanism'],
   },
   {
-    title: 'Scikit-Learn',
+    title: 'Targeted Deep Sequencing',
+    competency: 5,
+    category: ['Genomic Pipelines', 'Tools', 'Disease Mechanism'],
+  },
+  {
+    title: 'Long Read Sequencing',
     competency: 4,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
+    category: ['Genomic Pipelines', 'Tools', 'Disease Mechanism'],
   },
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'ML Engineering'],
-  },
-  {
-    title: 'Dagster',
-    competency: 2,
-    category: ['Data Engineering', 'Python', 'ML Engineering'],
-  },
-  {
-    title: 'Mypy',
+    title: 'Single-cell RNA-Seq',
     competency: 3,
-    category: ['Python'],
+    category: ['Genomic Pipelines', 'Tools'],
   },
   {
-    title: 'Pylint',
+    title: 'Primer Design',
     competency: 4,
-    category: ['Data Engineering', 'Python'],
+    category: ['Biochemistry', 'Biology'],
+  },
+  {
+    title: 'CRISPR KO',
+    competency: 3,
+    category: ['Biochemistry', 'Disease Mechanism', 'Tools'],
+  },
+  {
+    title: 'Zebrafish Crossing and Injection',
+    competency: 3,
+    category: ['Disease Mechanism', 'Tools'],
+  },
+  {
+    title: 'Organic Chemistry Synthesis',
+    competency: 5,
+    category: ['Organic Chemisty', 'Tools'],
+  },
+  {
+    title: 'Column Chromatography',
+    competency: 5,
+    category: ['Organic Chemisty', 'Tools'],
+  },
+  {
+    title: 'High-Performance Liquid Chromatography(HPLC)',
+    competency: 5,
+    category: ['Organic Chemisty', 'Tools'],
+  },
+  {
+    title: 'Glove Box',
+    competency: 5,
+    category: ['Organic Chemisty'],
+  },
+  {
+    title: 'Schlenk Techniques',
+    competency: 5,
+    category: ['Organic Chemisty'],
+  },
+  {
+    title: 'NMR',
+    competency: 5,
+    category: ['Organic Chemisty', 'Tools'],
+  },
+  {
+    title: '2D-NMR',
+    competency: 4,
+    category: ['Organic Chemisty'],
+  },
+  {
+    title: 'GC-MS',
+    competency: 4,
+    category: ['Organic Chemisty'],
+  },
+  {
+    title: 'Mass Spectrometry',
+    competency: 5,
+    category: ['Organic Chemisty', 'Tools', 'Biochemistry'],
+  },
+  {
+    title: 'ChemDraw',
+    competency: 5,
+    category: ['Organic Chemisty', 'Tools', 'Biochemistry'],
+  },
+  {
+    title: 'MestReNova',
+    competency: 5,
+    category: ['Organic Chemisty', 'Tools', 'Biochemistry'],
+  },
+  {
+    title: 'PCR Cloning',
+    competency: 5,
+    category: ['Tools', 'Biochemistry'],
+  },
+  {
+    title: 'Plasmid Transformation',
+    competency: 5,
+    category: ['Tools', 'Biochemistry'],
+  },
+  {
+    title: 'Protein Purification',
+    competency: 4,
+    category: ['Tools', 'Biochemistry'],
+  },
+  {
+    title: 'PyMOL',
+    competency: 4,
+    category: ['Biochemistry', 'Tools'],
+  },
+  {
+    title: 'SnapGene',
+    competency: 4,
+    category: ['Tools', 'Biochemistry'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
